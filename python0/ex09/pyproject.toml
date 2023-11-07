@@ -1,0 +1,20 @@
+[build-system]
+requires = ["flit_core>=3.4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "ft_package"
+version = "0.0.1"
+description = "A sample test package"
+home-page = "https://github.com/mseong123/ft_package"
+Author = "eagle"
+requires-python = ">=3.1"
+Author-email = "melee@student.42kl.edu.my"
+License = "MIT"
+location = "/Users/melee/python0/ex09"
+requires = ""
+required-by = ""
+metadata-version = "2.1"
+installer = "pip"
+classifiers = []
+entry-points = {}
